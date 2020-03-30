@@ -10,7 +10,7 @@ implementar una simulación del ciclo de día/noche.
 ● (1p) Añadir 2 estados en el animation blueprint del Third Person con nuevas
 animaciones para el personaje de entre las siguientes opciones:
 ○ Muerte
-○ Bailar
+○ Bailar (Al apretar la tecla q el jugador baila, si la vuelves a apretar dejara de hacerlo)
 ● (1p) Hacer el retarget de la animación de Mixamo y aplicarla al player.
 ● (0,5p) Crear alguna funcionalidad en entre las siguientes, en el Level
 Blueprint:
