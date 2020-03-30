@@ -1,0 +1,19 @@
+Puntos Añadidos
+● (0,5p) Crear un Terrain como base jugable, texturizado y con vegetación.
+● (1p) Crear al menos 3 triggers con diferentes funcionalidades de entre las
+siguientes opciones:
+○ Item recolectable. (Lampara en frente del jugador)
+○ Zona de muerte. (Palmera izquierda de la puerta hay un collider que ejecuta la animacion de muerte)
+○ Abre una puerta si el player cumple X condición. (La puerta se abre si el jugador entra en el collier saltando)
+● (0,5p) Iluminar el escenario con al menos 3 tipos diferentes de luces. Y
+implementar una simulación del ciclo de día/noche.
+● (1p) Añadir 2 estados en el animation blueprint del Third Person con nuevas
+animaciones para el personaje de entre las siguientes opciones:
+○ Muerte
+○ Bailar
+● (1p) Hacer el retarget de la animación de Mixamo y aplicarla al player.
+● (0,5p) Crear alguna funcionalidad en entre las siguientes, en el Level
+Blueprint:
+○ Restart Game (Al apretar el boton "3" el mapa se resetea)
+● (0,5p) Aplicar la funcionalidad de que el player pueda poseer alguna IA.
+(Apretando los botones "1" y "2" cambias entre un personaje y otro)
